@@ -3,7 +3,7 @@ function App() {
  
   return (
    <h1>
-    <Navbar/>
+   hello react | shubham is here
    </h1>
   )
 }
